@@ -24,7 +24,7 @@ I'm a freshly graduated CS major and Distributed Systems enthusiast. But beyond 
 <br/>
 
 <div style="display:inline" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andreheringer&show_icons=true&?count_private=true&theme=nightowl&include_all_commits=true" height="150" alt="Naomijub's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=andreheringer&show_icons=true&?count_private=true&theme=nightowl&include_all_commits=true" height="150" alt="Andre's github stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreheringer&hide=Makefile&layout=compact" height="150" alt="Andre's top langs" />
 </div>
