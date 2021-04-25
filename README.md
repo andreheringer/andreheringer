@@ -10,7 +10,7 @@ I'm a freshly graduated CS major and Distributed Systems enthusiast. But beyond 
 
 
 ### Languages of choice
-Rust - Python - Clojure
+Rust - Python - Elixir
 
 <!--
 **andreheringer/andreheringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
