@@ -1,16 +1,16 @@
 ## Hi there 👋, I'm André
 
-I'm a freshly graduated CS major and Distributed Systems enthusiast. But beyond coding I also love plants, practice Zen and look forward to experiencing new hobbies and places.
+I love Databases. They are the coolest tech out there. At the moment I work at the CosmosDB team, you should check it out: https://azure.microsoft.com/pt-br/products/cosmos-db/
 
 ### Personal Stuff
   - 😄 Pronouns: He/Him
   - 👯 I’m looking to collaborate on Rust projects
-  - 🌱 I’m currently learning functional programming and distributed architecture and technics
+  - 🌱 I’m currently learning C# and the .NET framework
   - ⚡ Fun fact: I’m extremely allergic to cats but I love them anyways. Can’t be in the same room for more than an hour tho.
 
 
 ### Languages of choice
-Rust - Python - Elixir
+Rust - Python - C#
 
 <!--
 **andreheringer/andreheringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
