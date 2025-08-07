@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm André
 
-I love Databases. They are the coolest tech out there. At the moment I work at the CosmosDB team, you should check it out: https://azure.microsoft.com/pt-br/products/cosmos-db/
+I love Databases. They are the coolest tech out there. At the moment I work at the Cloud Storage Team at Vtex (https://vtex.com/pt-br/)
 
 ### Personal Stuff
   - 😄 Pronouns: He/Him
@@ -10,7 +10,7 @@ I love Databases. They are the coolest tech out there. At the moment I work at t
 
 
 ### Languages of choice
-Rust - Python - C#
+Rust - Python - Elixir - Go
 
 <!--
 **andreheringer/andreheringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
