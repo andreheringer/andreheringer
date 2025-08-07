@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm André
 
-I love Databases. They are the coolest tech out there. At the moment I work at the Cloud Storage Team at Vtex (https://vtex.com/pt-br/)
+I love Databases. They are the coolest tech out there. At the moment I work at the Cloud Storage Team at Vtex (https://vtex.com/)
 
 ### Personal Stuff
   - 😄 Pronouns: He/Him
